@@ -1,8 +1,15 @@
 # Hi, I'm Alfonso García👋
 ```
-Mechatronics
+public struct AboutMe{
+  let name= "Alfonso"
+  let profession = "Design Team Leader"
 
+  let preferredLanguage = ["C++", "JS", "Python", "JAVA"]
+  let canUse = ["NodeJS", "Electron JS"]
+}
 ```
+I have experience developing projects such as commercial and educational websites.
+
 <!--
 **cracellch/cracellch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
