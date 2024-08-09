@@ -1,4 +1,5 @@
 # Hi, I'm Alfonso García👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecracell)](https://github.com/thecracell/github-readme-stats)
 ```
 public struct AboutMe{
   let name= "Alfonso"
