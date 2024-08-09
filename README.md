@@ -1,7 +1,8 @@
-## Hi there 👋
-## Hi
-<em> Hi, I'm Alfonso García </em>## Hi there 👋
+# Hi, I'm Alfonso García👋
+```
+Mechatronics
 
+```
 <!--
 **cracellch/cracellch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...    
 - ⚡ Fun fact: ...
 -->
